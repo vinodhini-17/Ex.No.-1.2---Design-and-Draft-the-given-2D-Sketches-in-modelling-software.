@@ -37,7 +37,8 @@
 
 
  ## OUTPUT
-[EX 2 NEW.pdf](https://github.com/vinodhini-17/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./files/13462929/EX.2.NEW.pdf)
+![Screenshot 2023-11-25 084418](https://github.com/vinodhini-17/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/145742741/de572b4c-59d4-47d8-9a9b-c3ecbee7552c)
+
 
  
  ## RESULT
